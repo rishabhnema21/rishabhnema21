@@ -14,6 +14,12 @@ I’m a Computer Science undergrad specializing in Data Science. I’m passionat
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhnema21&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
 <!--
 **rishabhnema21/rishabhnema21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
