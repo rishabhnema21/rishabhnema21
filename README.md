@@ -1,14 +1,12 @@
-## Hi, I'm Rishabh! 👋
+## Hi, I’m Rishabh  👋
 
-I’m a Computer Science undergrad specializing in Data Science. I’m passionate about developing impactful solutions and love tackling challenges in Data Structures and Algorithms (DSA). At the moment, I’m focusing on improving my DSA skills with C++ and exploring full-stack development 🚀
+I’m a Computer Science undergrad specializing in Data Science, with a strong interest in building practical and meaningful solutions. I’m currently sharpening my skills in Data Structures & Algorithms using C++, while also exploring the world of full-stack web development.
 
-♟ Focus Goals.
-- 💡 To be proficient in **Data Structures & Algorithms**.
-- 🌱 Problem Solving on [Leetcode](https://leetcode.com/u/Rishabh-Nema/).
-- 💬 Full Stack Web Development!
+I enjoy learning, solving problems, and applying concepts to create reliable, user-focused projects. My approach is driven by curiosity, consistency, and the belief that small, steady improvements lead to big results.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhnema21)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rishabhnema21)
 
 ## 🚀Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -19,6 +17,9 @@ I’m a Computer Science undergrad specializing in Data Science. I’m passionat
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=333333)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 📊 GitHub Stats
