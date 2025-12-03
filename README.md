@@ -28,6 +28,8 @@ I enjoy learning, solving problems, and applying concepts to create reliable, us
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhnema21&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhnema21&theme=radical)
+
 
 
 <!--
