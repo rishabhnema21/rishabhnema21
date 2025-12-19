@@ -1,8 +1,13 @@
-## Hi, I’m Rishabh  👋
+## Hey Everyone  👋
 
-I’m a Computer Science undergrad specializing in Data Science, with a strong interest in building practical and meaningful solutions. I’m currently sharpening my skills in Data Structures & Algorithms using C++, while also exploring the world of full-stack web development.
+I'm Rishabh, Computer Science (Data Science) undergraduate who enjoys building things on the web. I like working on full-stack projects, turning ideas into useful, real-world applications, and learning by actually building stuff. Right now, I’m creating projects using the MERN stack and improving my understanding of how modern web apps are structured.  
 
-I enjoy learning, solving problems, and applying concepts to create reliable, user-focused projects. My approach is driven by curiosity, consistency, and the belief that small, steady improvements lead to big results.
+Currently Learning -
+- State management using Zustand
+- Next.js for building production-ready React apps
+- TypeScript to write cleaner and more reliable code
+
+Mostly focused on writing better code, understanding best practices, and getting comfortable with real-world workflows.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhnema21)
