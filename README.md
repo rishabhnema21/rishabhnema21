@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/c10b513f-2ab1-4c67-8c8d-9b8e2eb5e035" />
+  <img src="https://github.com/user-attachments/assets/6b8867a4-99cb-48a4-bfb2-9304a697f835" alt="Profile GIF" />
 </p>
+
 
 ## Hey Everyone  👋
 
