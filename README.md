@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/c10b513f-2ab1-4c67-8c8d-9b8e2eb5e035" />
+</p>
+
 ## Hey Everyone  👋
 
 I'm Rishabh, Computer Science (Data Science) undergraduate who enjoys building things on the web. I like working on full-stack projects, turning ideas into useful, real-world applications, and learning by actually building stuff. Right now, I’m creating projects using the MERN stack and improving my understanding of how modern web apps are structured.  
