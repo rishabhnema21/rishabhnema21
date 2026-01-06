@@ -20,8 +20,10 @@ Mostly focused on writing better code, understanding best practices, and getting
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhnema21&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhnema21&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhnema21&show_icons=true&hide_title=true&hide=prs&theme=radical&format=png)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rishabhnema21&theme=radical&format=png)
+
 
 
 
