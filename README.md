@@ -15,20 +15,14 @@ Currently Learning -
 
 Mostly focused on writing better code, understanding best practices, and getting comfortable with real-world workflows.
 
-## 🌐Socials
+## 🌐Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhnema21)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itzrishxbh)
 
 
-## 🚀Tech Stack
+## 🚀Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,git,github,nodejs,expressjs,mongodb,ts,mysql,postman)](https://skillicons.dev)
 
-
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhnema21&show_icons=true&hide_title=true&hide=prs&theme=radical&format=png)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rishabhnema21&theme=radical&format=png)
 
 
 
