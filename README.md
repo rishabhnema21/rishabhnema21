@@ -21,7 +21,7 @@ Mostly focused on writing better code, understanding best practices, and getting
 
 
 ## 🚀Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,git,github,nodejs,expressjs,mongodb,ts,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,git,github,react,nextjs,nodejs,expressjs,mongodb,ts,mysql,postman)](https://skillicons.dev)
 
 
 
