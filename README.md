@@ -10,8 +10,8 @@ I'm Rishabh, Computer Science (Data Science) undergraduate who enjoys building t
 
 Currently Learning -
 - State management using Zustand
-- Next.js for building production-ready React apps
-- TypeScript to write cleaner and more reliable code
+- PostgreSQL – relational database design and SQL for production-ready backends
+- Using ORMs like Drizzle to manage schemas, migrations, and database queries
 
 Mostly focused on writing better code, understanding best practices, and getting comfortable with real-world workflows.
 
