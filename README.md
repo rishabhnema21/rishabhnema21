@@ -21,7 +21,14 @@ Mostly focused on writing better code, understanding best practices, and getting
 
 
 ## 🚀Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,git,github,react,tailwind,nextjs,nodejs,expressjs,mongodb,postgresql,ts,mysql,postman)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,react,tailwind,nextjs" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,ts,mysql,postman" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" width="48" height="48" />
+</p>
 
 
 
