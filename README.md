@@ -4,16 +4,13 @@
 </p>
 
 
-## Hey Everyone  👋
+## Hii All,
 
-I'm Rishabh, Computer Science (Data Science) undergraduate who enjoys building things on the web. I like working on full-stack projects, turning ideas into useful, real-world applications, and learning by actually building stuff. Right now, I’m creating projects using the MERN stack and improving my understanding of how modern web apps are structured.  
+I'm Rishabh, a pre-final year Computer Science (Data Science) student building full-stack web applications and exploring modern backend systems.
 
-Currently Learning -
-- State management using Zustand
-- PostgreSQL – relational database design and SQL for production-ready backends
-- Using ORMs like Drizzle to manage schemas, migrations, and database queries
+I primarily work with React, Next.js, Node.js, Express, MongoDB, and PostgreSQL. Recently, I've been learning relational database design, Drizzle ORM, and state management with Zustand while building projects that reflect real-world development practices.
 
-Mostly focused on writing better code, understanding best practices, and getting comfortable with real-world workflows.
+If you'd like to connect, discuss ideas, or collaborate, feel free to reach out.
 
 ## 🌐Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhnema21)
