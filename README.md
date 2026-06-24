@@ -10,7 +10,8 @@ I'm Rishabh, a pre-final year Computer Science (Data Science) student building f
 
 I primarily work with React, Next.js, Node.js, Express, MongoDB, and PostgreSQL. Recently, I've been learning relational database design, Drizzle ORM, and state management with Zustand while building projects that reflect real-world development practices.
 
-If you'd like to connect, discuss ideas, or collaborate, feel free to reach out.
+If you'd like to connect, discuss ideas, or collaborate, feel free to reach out. <br>
+Email: [rishabhnema2105@gmail.com](mailto:rishabhnema2105@gmail.com)
 
 ## 🌐Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhnema21)
